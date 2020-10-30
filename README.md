@@ -14,9 +14,9 @@
   <p align="center">
     Scrape publicly available call signs from the AMC database into a txt file.
     <br />
-    <a href="https://github.com/ruxton/call_scraper/issues">amc_callscraperrt Bug</a>
+    <a href="https://github.com/ruxton/amc_callscraper/issues">Report A Bug</a>
     ·
-    <a href="https://github.com/ruxton/call_scraper/issues">Request Feature</a>
+    <a href="https://github.com/ruxton/amc_callscraper/issues">Request Feature</a>
   </p>
 </p>
 
@@ -58,7 +58,6 @@ A command line applications that scrapes available call signs from the AMC's pub
 [Download a release](release-url) and run it.
 
 
-```
 
 ### Installation
 
@@ -107,7 +106,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@ruxton](https://twitter.com/ruxton)
 
-Project Link: [https://github.com/ruxton/call_scraper](https://github.com/ruxton/call_scraper)
+Project Link: [https://github.com/ruxton/amc_callscraper](https://github.com/ruxton/amc_callscraper)
 
 
 
